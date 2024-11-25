@@ -1,0 +1,12 @@
+Enter the number of processes: 3
+Enter the number of resources: 3
+Enter allocation matrix:
+0 1 0
+2 0 0
+3 0 3
+Enter maximum need matrix:
+7 5 3
+3 2 2
+9 0 3
+Enter available resources:
+3 3 2

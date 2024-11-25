@@ -1,0 +1,20 @@
+Enter the number of processes: 3
+Enter the number of resources: 3
+Enter allocation matrix:
+0 1 0
+2 0 0
+3 0 3
+Enter maximum need matrix:
+7 5 3
+3 2 2
+9 0 3
+Enter available resources:
+3 3 2
+
+System is initially in a safe state. Safe sequence: P1 P0 P2 
+Enter process ID to request resources (-1 to exit): 1
+Enter resource request vector:
+1 0 2
+Request granted. Safe sequence: P1 P0 P2 
+Enter process ID to request resources (-1 to exit): -1
+
